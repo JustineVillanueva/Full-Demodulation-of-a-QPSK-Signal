@@ -19,10 +19,10 @@ This laboratory experiment demonstrates the full demodulation process of a Quadr
 
 
 **Generating a QPSK Signal**
-![QPSK Diagram](Images/Diagrams/QPSK_Diagram.jpg)
+![QPSK Diagram](Images/Diagram/QPSK_Diagram.jpg)
 
 **Full Diagram: Modulator, channel, and demodulator**
-![Full Diagram](Images/Diagrams/Full_Diagram.jpg)
+![Full Diagram](Images/Diagram/Full_Diagram.jpg)
 
 </details>
 
