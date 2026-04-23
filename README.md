@@ -33,10 +33,10 @@ This laboratory experiment demonstrates the full demodulation process of a Quadr
   <summary>Experiment QPSK Result</summary>
 
 **Part B Result: Generating a QPSK Signal**
-![QPSK Result](Images/Diagrams/Part-B-no35.jpg)
+![QPSK Result](Images/Results/Part-B-no35.jpg)
 
 **Part D Result: Demodulation of a QPSK**
-![QPSK Result](Images/Diagrams/Part-D-Last.jpg)
+![QPSK Result](Images/Results/Part-D-Last.jpg)
 
 
 - Received QPSK signal waveform  
